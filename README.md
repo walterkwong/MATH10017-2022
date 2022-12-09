@@ -63,6 +63,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
        - [Lab Files](labs/lab9.zip)
        - [Tutorial Tasks](labs/tutorial6.pdf)
        - [Tutorial File](labs/tutorial6.c)
+       - [Tutorial solutions](labs/tutorial6_solutions.c)
        
 11. No Lecture. Do Coursework 2. 
 
