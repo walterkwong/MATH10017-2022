@@ -5,7 +5,7 @@ Thanks to those who participated the mid-unit feedback! I am glad that you are o
 Here I would like to address your concerns: 
 
 - The homework should be marked quicker. 
-  - I agree. Branden and I are trying to streamline the feedback/marking procedure. For example, we will standardize the homework output format, so it is easy for us to tell right/wrong. This will be one of the main area we aim to improve in the next term. 
+  - I agree. Brendan and I are trying to streamline the feedback/marking procedure. For example, we will standardize the homework output format, so it is easy for us to tell right/wrong. This will be one of the main area we aim to improve in the next term. 
 
 - Give students more Programming question problem sets. / more questions/ harder questions. 
   - I think I agree with the idea, that programming should be learned by practicing often. However, I *do not advocate programming for the sake of it*. Programming languages are tools for solving problems. I tend to believe that one learns programming fast when there is a "project" to motivate you (that is the idea behind CW1 and CW2). I think rather than giving you "questions sets", I prefer to give you "project ideas" for you to explore. This is an avenue I will explore in the next term. 
