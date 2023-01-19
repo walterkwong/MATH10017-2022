@@ -57,6 +57,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 9. [Coursework 2](lecs/cw2.pdf)
    - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
    - [Lab File](labs/cw2.zip)
+   - [Solution](labs/cw2_sol.c)
 
 10. Lecture slides: [Revision](/lecs/lec10.pdf)
        - [Lab Tasks](labs/lab9.pdf)
