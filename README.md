@@ -53,8 +53,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 9. Lecture slides: [Structure and File IO](lecs/lec9_.pdf)
    - Lab tasks: AT the end of the lecture slides. 
    - [Lab File](labs/lab8.zip), [Solution](labs/lab8_sol.zip)
-   
-9. [Coursework 2](lecs/cw2.pdf)
+   - [Coursework 2](lecs/cw2.pdf)
    - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
    - [Lab File](labs/cw2.zip)
    - [Solution](labs/cw2_sol.c)
@@ -69,6 +68,11 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 11. No Lecture. Do Coursework 2. 
 
 [On AI-assisted Programming Tools](misc/llm.md)
+[TB2 Plan](misc/TB2_plan.md)
+
+_Future lecture slides are subject to changes._
+
+13.  Lecture slides: [Sort](lecs/lec11.pdf)
 
 ## Extra Learning Materials
 
