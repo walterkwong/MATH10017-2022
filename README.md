@@ -68,6 +68,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 11. No Lecture. Do Coursework 2. 
 
 [On AI-assisted Programming Tools](misc/llm.md)
+
 [TB2 Plan](misc/TB2_plan.md)
 
 _Future lecture slides are subject to changes._
