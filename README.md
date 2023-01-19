@@ -68,6 +68,8 @@ TL,DR; This unit teaches basic language features of C, R and C++.
        
 11. No Lecture. Do Coursework 2. 
 
+[On AI-assisted Programming Tools](misc/llm.md)
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
