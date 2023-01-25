@@ -74,6 +74,8 @@ _Future lecture slides are subject to changes._
 
 13.  Lecture slides: [Sort](lecs/lec11.pdf)
    - [Lab File](labs/lab_10.zip)
+   - [Tutorial file](labs/tutorial7.pdf)
+   - [Tutorial code](labs/tutorial7.c)
 
 ## Extra Learning Materials
 
