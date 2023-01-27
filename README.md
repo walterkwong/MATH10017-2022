@@ -70,10 +70,12 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 [TB2 Plan](misc/TB2_plan.md)
 
-_Future lecture slides are subject to changes._
-
 13.  Lecture slides: [Sort](lecs/lec11.pdf)
    - [Lab File](labs/lab_10.zip)
+
+_Future lecture slides are subject to changes._
+
+14.  Lecture slides: [C++ and Object Oriented Programming](lecs/lec12.pdf)
 
 ## Extra Learning Materials
 
