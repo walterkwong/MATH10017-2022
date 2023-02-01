@@ -71,7 +71,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 [TB2 Plan](misc/TB2_plan.md)
 
 13.  Lecture slides: [Sort](lecs/lec11.pdf)
-   - [Lab File](labs/lab_10.zip)
+   - [Lab File](labs/lab_10.zip), [Solution](labs/lab10_sol.c)
    - [Tutorial file](labs/tutorial7.pdf)
    - [Tutorial code](labs/tutorial7.c)
 
