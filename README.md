@@ -78,9 +78,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 14.  Lecture slides: [C++ and Object Oriented Programming](lecs/lec12.pdf)
    - [Lab File](labs/lab11.zip), [Solution](labs/lab11.cpp)
 
-_Future lecture slides are subject to changes._
+15.   Lecture slides: [C++ and Object Oriented Programming 2](lecs/lec13.pdf)
+   - [Lab File](labs/lab12.zip)
 
-1.   Lecture slides: [C++ and Object Oriented Programming 2](lecs/lec13.pdf)
+_Future lecture slides are subject to changes._
 
 
 ## Extra Learning Materials
