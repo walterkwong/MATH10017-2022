@@ -83,7 +83,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Tutorial](lecs/lec13_tutorial.pdf), [Skeleton](labs/lec13_tutorial.cpp)
 
 16. Lecture slides: [Search](lecs/lec14.pdf) 
-   - [Hill Climbing](labs/hill_climbing.cpp), [TicTacToe](labs/ttt.cpp)
+   - [Hill Climbing](labs/hill_climbing.cpp), [TicTacToe](labs/ttt.cpp)，[TicTacToe (min-max search)](labs/ttt_minmax.cpp)
 
 _Future lecture slides are subject to changes._
 
