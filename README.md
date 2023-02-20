@@ -87,6 +87,8 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 _Future lecture slides are subject to changes._
 
+17. Lecture slides: [Iterative Algorithm](lecs/lec15.pdf) 
+
 
 ## Extra Learning Materials
 
