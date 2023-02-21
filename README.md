@@ -79,7 +79,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab File](labs/lab11.zip), [Solution](labs/lab11.cpp)
 
 15.   Lecture slides: [C++ and Object Oriented Programming 2](lecs/lec13.pdf)
-   - [Lab File](labs/lab12.zip)
+   - [Lab File](labs/lab12.zip), [Solution](labs/lab12.cpp)
    - [Tutorial](lecs/lec13_tutorial.pdf), [Skeleton](labs/lec13_tutorial.cpp)
 
 16. Lecture slides: [Search](lecs/lec14.pdf) 
@@ -87,6 +87,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 17. Lecture slides: [Iterative Algorithm](lecs/lec15.pdf) 
    - [Lab File](labs/lab14.zip)
+
 _Future lecture slides are subject to changes._
 
 
