@@ -88,6 +88,9 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 17. Lecture slides: [Iterative Algorithm](lecs/lec15.pdf) 
    - [Lab File](labs/lab14.zip)
 
+Coursework 3: [Pagerank](lecs/pagerank.pdf)
+   - Create your own cpp file. 
+
 _Future lecture slides are subject to changes._
 
 
