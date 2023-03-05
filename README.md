@@ -93,6 +93,10 @@ Coursework 3: [Pagerank](lecs/pagerank.pdf)
 
 _Future lecture slides are subject to changes._
 
+18. Lecture slides: [Intro to R](lecs/lec16.pdf) 
+   - [Lab File](labs/lab15.zip)
+
+
 
 ## Extra Learning Materials
 
