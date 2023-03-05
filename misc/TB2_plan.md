@@ -16,13 +16,13 @@ C++
 ---
 R
 
-1.    Introduction to R programming (self-study)
-2.    From Scalar to Vectorized Compute
+1.    Introduction to R programming & From Scalar to Vectorized Compute
+2.    (self-study)
 3.    Vectorized Code
 4.    Functional Programming
 5.    Data Frame, a case study. 
       - CW4 **announcement**
-6.    Revision (Cancelled! Bank Holiday).
+6.    Q&A.
 
 In total, there will be two coursework during TB2 (12.5% each). 
 
