@@ -12,6 +12,7 @@ C++
 5.  Searching Algorithm
 6.  Iterative Algorithms
     - CW3 **announcement**. 
+
 7   No lecture, do CW3.
 ---
 R
