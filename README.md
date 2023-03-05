@@ -94,9 +94,11 @@ Coursework 3: [Pagerank](lecs/pagerank.pdf)
 _Future lecture slides are subject to changes._
 
 18. Lecture slides: [Intro to R](lecs/lec16.pdf) 
+   - [Interpreted vs. Compiled Language](https://www.youtube.com/watch?v=e4ax90XmUBc)
    - [Lab File](labs/lab15.zip)
 
-
+19. Lecture slides: [Intro to R](lecs/lec17.pdf) 
+   - [Lab File](labs/lab15.zip)
 
 ## Extra Learning Materials
 
