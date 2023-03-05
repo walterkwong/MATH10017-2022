@@ -97,7 +97,7 @@ _Future lecture slides are subject to changes._
    - [Interpreted vs. Compiled Language](https://www.youtube.com/watch?v=e4ax90XmUBc)
    - [Lab File](labs/lab15.zip)
 
-19. Lecture slides: [Intro to R](lecs/lec17.pdf) 
+19. Lecture slides: [From Scalar Compute to Vector Compute](lecs/lec17.pdf) 
 
 ## Extra Learning Materials
 
