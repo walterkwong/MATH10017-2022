@@ -21,7 +21,7 @@ R
 4.    Functional Programming
 5.    Data Frame, a case study. 
       - CW4 **announcement**
-6.    Revision.
+6.    Revision (Cancelled! Bank Holiday).
 7.    No lecture.
 
 In total, there will be two coursework during TB2 (12.5% each). 
