@@ -98,7 +98,6 @@ _Future lecture slides are subject to changes._
    - [Lab File](labs/lab15.zip)
 
 19. Lecture slides: [Intro to R](lecs/lec17.pdf) 
-   - [Lab File](labs/lab15.zip)
 
 ## Extra Learning Materials
 
