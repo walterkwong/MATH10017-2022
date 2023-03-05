@@ -8,10 +8,11 @@ C++
 
 1.  Sorting and Computational Complexity
 2.  Object Oriented Programming
-3.  Searching Algorithm
 4.  Object Oriented Programming 2
-5.  Iterative Algorithms
+5.  Searching Algorithm
+6.  Iterative Algorithms
     - CW3 **announcement**. 
+7   No lecture, do CW3.
 ---
 R
 
@@ -22,7 +23,6 @@ R
 5.    Data Frame, a case study. 
       - CW4 **announcement**
 6.    Revision (Cancelled! Bank Holiday).
-7.    No lecture.
 
 In total, there will be two coursework during TB2 (12.5% each). 
 
