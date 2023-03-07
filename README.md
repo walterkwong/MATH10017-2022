@@ -86,7 +86,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Hill Climbing](labs/hill_climbing.cpp), [TicTacToe](labs/ttt.cpp)，[TicTacToe (min-max search)](labs/ttt_minmax.cpp)
 
 17. Lecture slides: [Iterative Algorithm](lecs/lec15.pdf) 
-   - [Lab File](labs/lab14.zip)
+   - [Lab File](labs/lab14.zip), [Solution](labs/lab14_sol.cpp)
 
 18. No lecture. Do Coursework 3: [Pagerank](lecs/pagerank.pdf)
    - Create your own cpp file. 
