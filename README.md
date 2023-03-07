@@ -91,13 +91,15 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 Coursework 3: [Pagerank](lecs/pagerank.pdf)
    - Create your own cpp file. 
 
-_Future lecture slides are subject to changes._
-
 18. Lecture slides: [Intro to R](lecs/lec16.pdf) 
    - [Interpreted vs. Compiled Language](https://www.youtube.com/watch?v=e4ax90XmUBc)
    - [Lab File](labs/lab15.zip)
+   - [Tutorial](lec/../lecs/rejsampling.pdf)
 
 19. Lecture slides: [From Scalar Compute to Vector Compute](lecs/lec17.pdf) 
+
+_Future lecture slides are subject to changes._
+
 
 ## Extra Learning Materials
 
