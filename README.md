@@ -93,10 +93,11 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 19. Lecture slides: [Intro to R](lecs/lec16.pdf) 
    - [Interpreted vs. Compiled Language](https://www.youtube.com/watch?v=e4ax90XmUBc)
-   - [Lab File](labs/lab15.zip)
+   - [Lab File](labs/lab15.zip), [Solution R](labs/sol11.R), [Solution C](labs/sol11.c)
    - [Tutorial](lec/../lecs/rejsampling.pdf)
 
 20. Lecture slides: [From Scalar Compute to Vector Compute](lecs/lec17.pdf) 
+   - [Solution](labs/sol12.R)
 
 _Future lecture slides are subject to changes._
 
