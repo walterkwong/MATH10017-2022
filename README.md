@@ -99,9 +99,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 20. Lecture slides: [From Scalar Compute to Vector Compute](lecs/lec17.pdf) 
    - [Solution](labs/sol12.R)
 
-_Future lecture slides are subject to changes._
+21.  Lab Practice: [Graphics 101](lecs/graphics101.pdf)
 
-1.  Lab Practice: [Graphics 101](lecs/graphics101.pdf)
+_Future lecture slides are subject to changes._
+22.  Lecture slides: [Vectorized Code](lecs/lec18.pdf)
 
 
 ## Extra Learning Materials
