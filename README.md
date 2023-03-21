@@ -101,8 +101,9 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 21.  Lab Practice: [Graphics 101](lecs/graphics101.pdf)
 
-_Future lecture slides are subject to changes._
 22.  Lecture slides: [Vectorized Code](lecs/lec18.pdf)
+
+_Future lecture slides are subject to changes._
 
 
 ## Extra Learning Materials
