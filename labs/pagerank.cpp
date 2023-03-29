@@ -68,6 +68,26 @@ class Problem
     double p[5];
     double p_old[5];
 
+    // check if the stopping condition is satisfied
+    int is_converged()
+    {
+        for (int i = 0; i < 5; i++)
+        {
+            if (fabs(p[i] - p_old[i]) > 1e-15)
+                return 0;
+        }
+        return 1;
+    }
+
+    // print out the pagerank
+    void print()
+    {
+        for (int i = 0; i < 5; i++)
+            printf("%.2f ", p[i]);
+
+        printf("\n");
+    }
+
 public:
     Problem() : A(5, 5)
     {
@@ -124,25 +144,6 @@ public:
         print();
     }
 
-    // check if the stopping condition is satisfied
-    int is_converged()
-    {
-        for (int i = 0; i < 5; i++)
-        {
-            if (fabs(p[i] - p_old[i]) > 1e-15)
-                return 0;
-        }
-        return 1;
-    }
-
-    // print out the pagerank
-    void print()
-    {
-        for (int i = 0; i < 5; i++)
-            printf("%.2f ", p[i]);
-
-        printf("\n");
-    }
 };
 
 int main()
