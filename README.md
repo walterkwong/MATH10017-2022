@@ -103,9 +103,13 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Solution](labs/graphics_sol.R)
 
 22.  Lecture slides: [Vectorized Code](lecs/lec18.pdf)
+   - [Lab Solution](labs/sol13.R)
    - [Tutorial](labs/tutorial6.pdf), [Code](labs/tutorial6.zip), [Solution](labs/tutorial6.r)
 
 _Future lecture slides are subject to changes._
+
+23.  Lecture slides: [List and Functional Programming](lecs/lec19.pdf)
+
 
 
 ## Extra Learning Materials
