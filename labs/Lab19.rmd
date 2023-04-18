@@ -23,7 +23,7 @@ In today's lab, you will apply **functional programming** to code the pairwise d
 
 ## Preparation
 
-Before you start, I strongly recommend you review [this week's lecture slides](https://github.com/anewgithubname/MATH10017/blob/main/lecs/lec14.pdf) on list and functional programming.
+Before you start, I strongly recommend you review [this week's lecture slides](https://github.com/anewgithubname/MATH10017-2022/blob/main/lecs/lec19.pdf) on list and functional programming.
 
 **Write code below,** generating two random matrices $A$ and $B$ with 3 rows and 2 columns which are both filled with observations from standard normal distribution (Hint: `?rnorm`).
 
@@ -32,7 +32,7 @@ Before you start, I strongly recommend you review [this week's lecture slides](h
 
 ```
 
-Copy `pdist4` function from the previous lab (solution available online), and compute the distance matrix $D$ using $A$ and $B$. We will use this result for verification.
+Copy `pdist4` function from the previous lab ([solution available online](https://github.com/anewgithubname/MATH10017-2022/blob/main/labs/sol13.R)), and compute the distance matrix $D$ using $A$ and $B$. We will use this result for verification.
 
 ```{r}
 
@@ -51,11 +51,13 @@ We already know how to write vectorized code for computing $D$. Now let us inspe
 
 -   Given two data matrices $A \in \mathbb{R}^{n_1 \times m}$ and $B\in \mathbb{R}^{n_2 \times m}$,
 -   Fix $k$, and compute$(A_{[i,k]} - B_{[j,k]})^2$ for all $i, j$.
--   Store the outcome as the $i,j$-th element of a matrix $D_k$.
+-   Store the outcome in a matrix $D_k$.
 -   Apply the above computation for all $k$.
 -   $D := \sqrt{\sum_k D_k}$
 
 ### Task 1
+
+Let us compute $D_k$ first.
 
 Write a function `diff2` that takes two scalars $a,b$, and compute $(a-b)^2$:
 
@@ -90,18 +92,16 @@ Now use `outer` and `diff2`, compute a 3 by 3 matrix $D^{(1)}$, $D_{i,j}^{(1)} =
 
 ### Task 2
 
-We would like to repeat the above operation for all $k$. We can use a for loop, but in functional programming, we tend to think we "apply" a data operation to **the** **entire dataset** rather than create loops that iterate over each piece of our dataset.
+We would like to repeat the above operation for all $k$. We can use a for loop, but in functional programming, we tend to think we "apply" a data operation to **the** **entire dataset** rather than creating loops that iterate over each piece of our dataset.
 
-This is exactly what we did above: We applied `diff2` to all pairs of $i,j$.
-
-Let us create another function `D_k`, that takes one integer input $k$ and compute $D_k$ using `outer` (wrap the code you have just written in a function)
+Let us create a function `D_k`, which takes one integer input $k$ and compute $D_k$ using `outer` (i.e., wrap the code you have just written in a function)
 
 ```{r}
 # type your code here
 
 ```
 
-Now apply this function to a list of numbers (hint: `?lapply`). The list contains integers from 1 to $m$, where $m$ is 2 in this toy case.
+Now apply this function to a list of numbers (hint: `?lapply`) to produce $D_k, k = 1...m$ . The list contains integers from 1 to $m$, where $m$ is 2 in this toy case.
 
 ```{r}
 # type your code here
@@ -114,13 +114,13 @@ You should get a list of matrices whose $k$ -th element is $D_k$.
 
 Now, all that is left is summing $D_k$ together and we are done! Can we use a for loop to sum all $D_k$ matrices together?
 
-In Functional Programming, we tend to think our program is a huge pipeline that applies functions repeatedly to our data: `op3(op2(op1(data)))...` (recall the "data pipeline" in the lecture slides)
+In Functional Programming, our program is a huge pipeline that applies functions repeatedly to our data: `op3(op2(op1(data)))...` (recall the "data pipeline" in the lecture slides)
 
 We can rewrite the summation of $D_k$ using this paradigm:
 
 $\sum_{k=1…4} D_k$ is the same as
 
-`sum2(sum2(sum2(D_1,D_2),D_3),D_4)`, where `sum2(X,Y)` sums two matrices `X` and `Y` together. Write a function `sum2` that sums over two matrices
+`sum2(sum2(sum2(D_1,D_2),D_3),D_4)`, where `sum2(X,Y)` sums two matrices `X` and `Y` together. Write a function `sum2` that sums two matrices together
 
 ```{r}
 # type your code here
@@ -177,7 +177,7 @@ apply(X, 1, average)
 
 Now, given the `D` matrix you obtained. Could you sort each row of `D`, in ascending order?
 
-Hint: `sort` function, takes in a vector, and sort them according to the ascending order. `?sort`
+Hint: `sort` function, takes in a vector, then sorts them according to the ascending order. `?sort`
 
 ```{r}
 sort(c(4,3,2,1))
