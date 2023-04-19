@@ -109,7 +109,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 _Future lecture slides are subject to changes._
 
 23.  Lecture slides: [List and Functional Programming](lecs/lec19.pdf)
-   - [Lab Notebook](labs/Lab19.rmd), [Solution](labs/sol19.nb.html)
+   - [Lab Notebook](labs/Lab19.rmd), [Solution](labs/sol19.rmd)
 
 
 ## Extra Learning Materials
