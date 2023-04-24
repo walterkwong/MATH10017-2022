@@ -106,10 +106,13 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab Solution](labs/sol13.R)
    - [Tutorial](labs/tutorial6.pdf), [Code](labs/tutorial6.zip), [Solution](labs/tutorial6.r)
 
-_Future lecture slides are subject to changes._
-
 23.  Lecture slides: [List and Functional Programming](lecs/lec19.pdf)
    - [Lab Notebook](labs/Lab19.rmd), [Solution](labs/sol19.rmd)
+
+_Future lecture slides are subject to changes._
+
+24.   Lecture slides: [Data Frame](lecs/lec20.pdf)
+   - [Final Project](lecs/finalproj.pdf)
 
 
 ## Extra Learning Materials
