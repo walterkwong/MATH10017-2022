@@ -111,8 +111,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 _Future lecture slides are subject to changes._
 
-24.   Lecture slides: [Data Frame](lecs/lec20.pdf)
-   - [Final Project](lecs/finalproj.pdf)
+24.   Lecture slides: [Data Frame](lecs/lec20.pdf), [Final Project](lecs/finalproj.pdf)
 
 
 ## Extra Learning Materials
