@@ -110,7 +110,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab Notebook](labs/Lab19.rmd), [Solution](labs/sol19.rmd)
 
 24.   Lecture slides: [Data Frame](lecs/lec20.pdf), [Final Project](lecs/finalproj.pdf)
-   - [Lab Notebook](labs/lab20.zip)
+   - [Lab Notebook](labs/lab20.zip), [Solution](labs/sol20.Rmd)
 
 
 ## Extra Learning Materials
