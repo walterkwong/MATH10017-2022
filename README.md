@@ -71,13 +71,47 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 [TB2 Plan](misc/TB2_plan.md)
 
 13.  Lecture slides: [Sort](lecs/lec11.pdf)
-   - [Lab File](labs/lab_10.zip)
+   - [Lab File](labs/lab_10.zip), [Solution](labs/lab10_sol.c)
    - [Tutorial file](labs/tutorial7.pdf)
    - [Tutorial code](labs/tutorial7.c)
 
-_Future lecture slides are subject to changes._
-
 14.  Lecture slides: [C++ and Object Oriented Programming](lecs/lec12.pdf)
+   - [Lab File](labs/lab11.zip), [Solution](labs/lab11.cpp)
+
+15.   Lecture slides: [C++ and Object Oriented Programming 2](lecs/lec13.pdf)
+   - [Lab File](labs/lab12.zip), [Solution](labs/lab12.cpp)
+   - [Tutorial](lecs/lec13_tutorial.pdf), [Skeleton](labs/lec13_tutorial.cpp)
+
+16. Lecture slides: [Search](lecs/lec14.pdf) 
+   - [Hill Climbing](labs/hill_climbing.cpp), [TicTacToe](labs/ttt.cpp)，[TicTacToe (min-max search)](labs/ttt_minmax.cpp)
+
+17. Lecture slides: [Iterative Algorithm](lecs/lec15.pdf) 
+   - [Lab File](labs/lab14.zip), [Solution](labs/lab14_sol.cpp)
+
+18. No lecture. Do Coursework 3: [Pagerank](lecs/pagerank.pdf), [Solution](labs/pagerank.cpp)
+   - Create your own cpp file. 
+
+19. Lecture slides: [Intro to R](lecs/lec16.pdf) 
+   - [Interpreted vs. Compiled Language](https://www.youtube.com/watch?v=e4ax90XmUBc)
+   - [Lab File](labs/lab15.zip), [Solution R](labs/sol11.R), [Solution C](labs/sol11.c)
+   - [Tutorial](lec/../lecs/rejsampling.pdf)
+
+20. Lecture slides: [From Scalar Compute to Vector Compute](lecs/lec17.pdf) 
+   - [Solution](labs/sol12.R)
+
+21.  Lab Practice: [Graphics 101](lecs/graphics101.pdf)
+   - [Solution](labs/graphics_sol.R)
+
+22.  Lecture slides: [Vectorized Code](lecs/lec18.pdf)
+   - [Lab Solution](labs/sol13.R)
+   - [Tutorial](labs/tutorial6.pdf), [Code](labs/tutorial6.zip), [Solution](labs/tutorial6.r)
+
+23.  Lecture slides: [List and Functional Programming](lecs/lec19.pdf)
+   - [Lab Notebook](labs/Lab19.rmd), [Solution](labs/sol19.rmd)
+
+24.   Lecture slides: [Data Frame](lecs/lec20.pdf), [Final Project](lecs/finalproj.pdf)
+   - [Lab Notebook](labs/lab20.zip), [Solution](labs/sol20.Rmd)
+
 
 ## Extra Learning Materials
 

@@ -8,21 +8,21 @@ C++
 
 1.  Sorting and Computational Complexity
 2.  Object Oriented Programming
-3.  Searching Algorithm
 4.  Object Oriented Programming 2
-5.  Iterative Algorithms
+5.  Searching Algorithm
+6.  Iterative Algorithms
     - CW3 **announcement**. 
+7.  No lecture, do CW3.
 ---
 R
 
-1.    Introduction to R programming (self-study)
-2.    From Scalar to Vectorized Compute
+1.    Introduction to R programming & From Scalar to Vectorized Compute
+2.    (self-study)
 3.    Vectorized Code
 4.    Functional Programming
 5.    Data Frame, a case study. 
       - CW4 **announcement**
-6.    Revision.
-7.    No lecture.
+6.    Q&A, do CW4
 
 In total, there will be two coursework during TB2 (12.5% each). 
 
